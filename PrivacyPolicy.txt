@@ -1,0 +1,1 @@
+Personal backup tool, used only by me. No data is shared.
